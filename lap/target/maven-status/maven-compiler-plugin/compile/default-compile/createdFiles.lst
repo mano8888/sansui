@@ -1,0 +1,6 @@
+com/lap/AppConfig$JerseyConfig.class
+com/lap/AppConfig$JacksonMessagePackProvider.class
+com/lap/AppConfig.class
+com/lap/CalcEndpoint.class
+com/lap/App.class
+com/lap/CalcEndpoint$Result.class
