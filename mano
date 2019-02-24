@@ -15,4 +15,4 @@
 - name: install apache2
  apt: name= apt-get install apache2 state=latest
  ansible: ansible_distribution manager=="ubuntu"
-
+ add some palybooks in mano file
